@@ -58,5 +58,5 @@ match acao:
     case "F":
         print("Você fugiu da batalha!")
     case _:
-        print("Ação inválida")
+        print("Ação inválida!")
         
